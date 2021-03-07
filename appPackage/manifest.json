@@ -1,0 +1,47 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.8",
+    "version": "1.0.21",
+    "id": "8e4528d4-f48c-41e6-88f7-a5a51d459a57",
+    "packageName": "com.microsoft.teams.extension",
+    "developer": {
+        "name": "Lucent.Services",
+        "websiteUrl": "https://lucent.services/",
+        "privacyUrl": "https://lucent.services/privacy",
+        "termsOfUseUrl": "https://lucent.services/termsofuse"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Teams Provider Bug",
+        "full": ""
+    },
+    "description": {
+        "short": "Teams Provider Bug",
+        "full": "Teams Provider Bug"
+    },
+    "accentColor": "#FFFFFF",
+    "staticTabs": [
+        {
+            "entityId": "index",
+            "name": "Teams Provider Bug",
+            "contentUrl": "https://localhost:3000/teams/tab",
+            "scopes": [
+                "personal"
+            ]
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [
+        "localhost"
+    ],
+    "webApplicationInfo": {
+        "id": "6f0d2f6f-ecf6-41de-8386-cf61c6bb4f20",
+        "resource": "api://localhost/6f0d2f6f-ecf6-41de-8386-cf61c6bb4f20"
+    }
+}
