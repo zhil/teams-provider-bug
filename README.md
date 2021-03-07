@@ -1,3 +1,8 @@
+Issues
+===
+https://github.com/microsoftgraph/microsoft-graph-toolkit/issues/930
+https://github.com/microsoftgraph/microsoft-graph-toolkit/issues/738
+
 Setup
 ====
 
