@@ -8,4 +8,7 @@ npm i
 npm start
 ```
 2) open https://localhost:3000/ in browser and confirm SSL exception
-TODO: Setup application instructions 
+
+3) setup appPackage/teams-provider-bug.zip
+
+4) Login
