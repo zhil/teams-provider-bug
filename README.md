@@ -11,4 +11,8 @@ npm start
 
 3) setup appPackage/teams-provider-bug.zip
 
-4) Login
+4) Login, you will get callback error after login
+
+5) refresh page - you will get callback error
+
+![зображення](https://user-images.githubusercontent.com/981783/110256653-a4213000-7fa2-11eb-8258-956c1c40b458.png)
